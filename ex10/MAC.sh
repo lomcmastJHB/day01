@@ -1,0 +1,8 @@
+#!/bin/bash
+
+curl ifconfig.me 
+echo
+
+
+
+
